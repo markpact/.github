@@ -27,4 +27,4 @@ Executable README and Markpact platform projects.
 - **Łącznie projektów**: 5
 - **Strony projektów**: `https://markpact.github.io/<repo>/`
 
-_Ostatnia aktualizacja: 2026-09-14_
+_Ostatnia aktualizacja: 2026-09-15_
